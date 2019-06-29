@@ -1,0 +1,17 @@
+{
+  "name": "synctex-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corwin-of-amber/synctex-js.git"
+  },
+  "author": "Thomas Durieux",
+  "license": "MIT",
+  "homepage": "https://github.com/corwin-of-amber/synctex-js#readme"
+}
